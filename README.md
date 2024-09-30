@@ -1,6 +1,6 @@
-# **Java OOP Sinusoida Project**
+# **Java OOP Project**
 
-Welcome to the **Java OOP Sinusoida Project** repository! This project demonstrates object-oriented principles using Java, focusing on implementing mathematical functions like sinusoids through class inheritance and polymorphism.
+Welcome to the **Java OOP Project** repository! This project demonstrates object-oriented principles using Java, focusing on implementing mathematical functions like sinusoids through class inheritance and polymorphism.
 
 ## **Table of Contents**
 - **[Overview](#overview)**
@@ -11,7 +11,6 @@ Welcome to the **Java OOP Sinusoida Project** repository! This project demonstra
 The **Java OOP Sinusoida Project** is a Java application designed to model and compute values of sinusoidal functions. The project leverages OOP principles such as inheritance and polymorphism to represent different types of functions and their calculations.
 
 ## **Features**
-- 📊 **Sinusoidal Function Calculation**: Calculate the value of sinusoids based on different parameters.
 - 📜 **Class Inheritance**: Demonstrates inheritance by extending function classes.
 - 🔄 **Polymorphism**: Uses polymorphism to handle different types of functions uniformly.
 - ✏️ **Encapsulation**: Safeguards class properties and manages data efficiently.
