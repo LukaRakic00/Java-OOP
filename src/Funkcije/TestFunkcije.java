@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package Funkcije;
 
 public class TestFunkcije extends Clan {
 

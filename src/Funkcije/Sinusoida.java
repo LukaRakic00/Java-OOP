@@ -1,3 +1,5 @@
+package Funkcije;
+
 public class Sinusoida extends Funkcija {
     private Clan clan;
     private double vrednost;

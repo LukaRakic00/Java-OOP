@@ -1,3 +1,5 @@
+package Funkcije;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -29,7 +31,7 @@ public class Main {
                 TestFunkcije tf = new TestFunkcije(a, b);
 
                 Sinusoida s = new Sinusoida(x, tf);
-                System.out.println("Funkcija: \n" + s.toString());
+                System.out.println("Funkcije.Funkcija: \n" + s.toString());
 
                 System.out.printf("Vrednost: %.2f", s.vrednost());
             }
@@ -55,7 +57,7 @@ public class Main {
                 }
 
                 ZbirSinusoida zs = new ZbirSinusoida(x, clan);
-                System.out.println("Funkcija: \n" + zs.toString());
+                System.out.println("Funkcije.Funkcija: \n" + zs.toString());
 
                 System.out.printf("Vrednost: %.2f.", zs.vrednost());
 

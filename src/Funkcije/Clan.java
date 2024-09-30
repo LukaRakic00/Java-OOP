@@ -1,3 +1,5 @@
+package Funkcije;
+
 public class Clan {
 
     private int a;

@@ -1,3 +1,5 @@
+package Funkcije;
+
 abstract public class Funkcija {
 
     private double x;

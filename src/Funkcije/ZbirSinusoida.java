@@ -1,3 +1,5 @@
+package Funkcije;
+
 import java.util.List;
 
 public class ZbirSinusoida extends Funkcija {
